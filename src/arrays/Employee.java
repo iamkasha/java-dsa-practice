@@ -1,3 +1,5 @@
+package arrays;
+
 public class Employee {
 
     String name;
@@ -12,11 +14,6 @@ public class Employee {
 
     @Override
     public String toString() {
-        return "Employee{" +
-                "name='" + name + '\'' +
-                ", department='" + department + '\'' +
-                ", salary=" + salary +
-                '}';
+        return "Employee{name='" + name + "', department='" + department + "', salary=" + salary + '}';
     }
-
 }

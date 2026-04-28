@@ -1,3 +1,5 @@
+package arrays;
+
 import java.util.*;
 import java.util.function.BinaryOperator;
 import java.util.function.Function;
@@ -7,6 +9,7 @@ public class ArrayQuestion {
 
     public static void main(String[] args) {
         System.out.println(findPairsWithZeroSum(new int[]{4, -3, 5, 1, -4, -1, 3, 2, -2}));
+
         List<Employee> employees = new ArrayList<>();
         employees.add(new Employee("Alice", "HR", 70000.00));
         employees.add(new Employee("Bob", "Engineering", 85000.00));
@@ -15,6 +18,9 @@ public class ArrayQuestion {
         System.out.println(findHighestPaidEmployeePerDept(employees));
     }
 
+    /*
+     * Find all pairs in the array that sum to zero.
+     */
     static List<List<Integer>> findPairsWithZeroSum(int[] arr) {
         Set<Integer> seen = new HashSet<>();
         List<List<Integer>> pairs = new ArrayList<>();
@@ -28,10 +34,12 @@ public class ArrayQuestion {
         return pairs;
     }
 
+    /*
+     * Using Java Streams, find the highest-paid employee per department.
+     */
     static Map<String, Employee> findHighestPaidEmployeePerDept(List<Employee> employees) {
         return employees.stream().collect(Collectors.toMap(
                 e -> e.department, Function.identity(),
                 BinaryOperator.maxBy(Comparator.comparing(e -> e.salary))));
     }
-
 }
