@@ -1,45 +1,37 @@
 class Solution {
-    public boolean backspaceCompare(String s, String t) {
-        
-        int i = s.length()-1;
-        int j = t.length()-1;
+    public boolean backspaceCompare(String s, String t) {       
+        int s_index = s.length()-1;
+        int t_index = t.length()-1; 
+        while(s_index >= 0 || t_index >= 0){
+            s_index = getValidChar(s_index, s);
+            t_index = getValidChar(t_index, t);
 
-        while(i >= 0 || j >= 0){
-
-            i = getValidChar(i, s);
-
-            j = getValidChar(j, t);
-
-            if(i < 0 && j < 0){
-                return true;
+            if(s_index < 0 && t_index < 0){
+               return true; 
+            }
+            if(s_index < 0 || t_index < 0){
+               return false; 
             }
 
-            if(i < 0 || j < 0){
+            if(s.charAt(s_index) != t.charAt(t_index)){
                 return false;
             }
-
-            if(s.charAt(i) != t.charAt(j)){
-                return false;
-            }
-
-            i--;
-            j--;
+            s_index--;
+            t_index--;
         }
         return true;
     }
 
-    private int getValidChar(int index, String str){
-
-        int skipCounter = 0;
-
+    private static int getValidChar(int index, String str){
+        int skip = 0;
         while(index >= 0){
             if(str.charAt(index) == '#'){
-                skipCounter++;
+                skip++;
                 index--;
-            } else if (skipCounter > 0){
-                skipCounter--;
+            } else if(skip > 0){
+                skip--;
                 index--;
-            } else{
+            } else {
                 break;
             }
         }
