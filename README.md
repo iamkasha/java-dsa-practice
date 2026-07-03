@@ -49,6 +49,7 @@ java -cp out trees.LevelOrderTraversal
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamkasha/java-dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0088-merge-sorted-array) |
@@ -68,6 +69,7 @@ java -cp out trees.LevelOrderTraversal
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamkasha/java-dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0088-merge-sorted-array) |
@@ -91,4 +93,8 @@ java -cp out trees.LevelOrderTraversal
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/iamkasha/java-dsa-practice/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/iamkasha/java-dsa-practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
