@@ -13,15 +13,15 @@ class Solution {
 
             while(j < k){
 
-                int sum = - (nums[j] + nums[k]);
+                int sum = nums[i] + nums[j] + nums[k];
 
-                if(sum == nums[i]){
+                if(sum == 0){
                     triplets.add(List.of(nums[i], nums[j], nums[k]));
                     j++;
                     k--;
-                } else if(sum > nums[i]){
+                } else if(sum > 0){
                     k--;
-                } else if(sum < nums[i]){
+                } else if(sum < 0){
                     j++;
                 }
             }
