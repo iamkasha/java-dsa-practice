@@ -70,6 +70,7 @@ java -cp out trees.LevelOrderTraversal
 | [0125-valid-palindrome](https://github.com/iamkasha/java-dsa-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/iamkasha/java-dsa-practice/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/iamkasha/java-dsa-practice/tree/master/0844-backspace-string-compare) |
 ## Array
@@ -123,6 +124,7 @@ java -cp out trees.LevelOrderTraversal
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamkasha/java-dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/iamkasha/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/iamkasha/java-dsa-practice/tree/master/0904-fruit-into-baskets) |
@@ -133,6 +135,7 @@ java -cp out trees.LevelOrderTraversal
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamkasha/java-dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/iamkasha/java-dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/iamkasha/java-dsa-practice/tree/master/1742-maximum-number-of-balls-in-a-box) |
