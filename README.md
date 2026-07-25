@@ -73,6 +73,7 @@ java -cp out trees.LevelOrderTraversal
 | [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/iamkasha/java-dsa-practice/tree/master/0844-backspace-string-compare) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/iamkasha/java-dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@ java -cp out trees.LevelOrderTraversal
 | [0567-permutation-in-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/iamkasha/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/iamkasha/java-dsa-practice/tree/master/0904-fruit-into-baskets) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/iamkasha/java-dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/iamkasha/java-dsa-practice/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/iamkasha/java-dsa-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
