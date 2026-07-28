@@ -1,6 +1,7 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
 
+        //Re-solving attempt
         int left=0;
         int right=0;
         int sum = 0;
