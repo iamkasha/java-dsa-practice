@@ -77,6 +77,7 @@ java -cp out trees.LevelOrderTraversal
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/iamkasha/java-dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/iamkasha/java-dsa-practice/tree/master/0016-3sum-closest) |
@@ -135,6 +136,7 @@ java -cp out trees.LevelOrderTraversal
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamkasha/java-dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
