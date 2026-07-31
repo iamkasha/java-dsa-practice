@@ -68,6 +68,7 @@ java -cp out trees.LevelOrderTraversal
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamkasha/java-dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/iamkasha/java-dsa-practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/iamkasha/java-dsa-practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -101,6 +102,7 @@ java -cp out trees.LevelOrderTraversal
 | [0016-3sum-closest](https://github.com/iamkasha/java-dsa-practice/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/iamkasha/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/iamkasha/java-dsa-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
@@ -139,6 +141,7 @@ java -cp out trees.LevelOrderTraversal
 | [0001-two-sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamkasha/java-dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/iamkasha/java-dsa-practice/tree/master/0904-fruit-into-baskets) |
