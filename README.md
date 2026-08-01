@@ -91,6 +91,7 @@ java -cp out trees.LevelOrderTraversal
 | [0209-minimum-size-subarray-sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/iamkasha/java-dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/iamkasha/java-dsa-practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/iamkasha/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/iamkasha/java-dsa-practice/tree/master/0904-fruit-into-baskets) |
@@ -107,6 +108,7 @@ java -cp out trees.LevelOrderTraversal
 | [0169-majority-element](https://github.com/iamkasha/java-dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamkasha/java-dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/iamkasha/java-dsa-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
@@ -148,6 +150,7 @@ java -cp out trees.LevelOrderTraversal
 | [0217-contains-duplicate](https://github.com/iamkasha/java-dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/iamkasha/java-dsa-practice/tree/master/0904-fruit-into-baskets) |
@@ -155,6 +158,7 @@ java -cp out trees.LevelOrderTraversal
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0268-missing-number) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/iamkasha/java-dsa-practice/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Counting
 |  |
@@ -165,6 +169,7 @@ java -cp out trees.LevelOrderTraversal
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -173,4 +178,8 @@ java -cp out trees.LevelOrderTraversal
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamkasha/java-dsa-practice/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
