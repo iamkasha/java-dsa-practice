@@ -88,6 +88,7 @@ java -cp out trees.LevelOrderTraversal
 | [0088-merge-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamkasha/java-dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/iamkasha/java-dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/iamkasha/java-dsa-practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/iamkasha/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
@@ -102,6 +103,7 @@ java -cp out trees.LevelOrderTraversal
 | [0016-3sum-closest](https://github.com/iamkasha/java-dsa-practice/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/iamkasha/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/iamkasha/java-dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/iamkasha/java-dsa-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -140,6 +142,7 @@ java -cp out trees.LevelOrderTraversal
 | ------- |
 | [0001-two-sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamkasha/java-dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/iamkasha/java-dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
