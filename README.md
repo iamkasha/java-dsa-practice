@@ -86,6 +86,7 @@ java -cp out trees.LevelOrderTraversal
 | [0075-sort-colors](https://github.com/iamkasha/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/iamkasha/java-dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamkasha/java-dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/iamkasha/java-dsa-practice/tree/master/0169-majority-element) |
@@ -115,6 +116,7 @@ java -cp out trees.LevelOrderTraversal
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/iamkasha/java-dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamkasha/java-dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/iamkasha/java-dsa-practice/tree/master/0392-is-subsequence) |
 ## Stack
