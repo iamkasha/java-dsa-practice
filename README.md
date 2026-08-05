@@ -67,6 +67,7 @@ java -cp out trees.LevelOrderTraversal
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamkasha/java-dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/iamkasha/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/iamkasha/java-dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0344-reverse-string) |
@@ -84,6 +85,7 @@ java -cp out trees.LevelOrderTraversal
 | [0015-3sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/iamkasha/java-dsa-practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/iamkasha/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/iamkasha/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0088-merge-sorted-array) |
@@ -106,6 +108,7 @@ java -cp out trees.LevelOrderTraversal
 | ------- |
 | [0015-3sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/iamkasha/java-dsa-practice/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/iamkasha/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/iamkasha/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/iamkasha/java-dsa-practice/tree/master/0169-majority-element) |
@@ -150,6 +153,7 @@ java -cp out trees.LevelOrderTraversal
 | ------- |
 | [0001-two-sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamkasha/java-dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/iamkasha/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/iamkasha/java-dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamkasha/java-dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
