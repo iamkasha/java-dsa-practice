@@ -70,6 +70,7 @@ java -cp out trees.LevelOrderTraversal
 | [0125-valid-palindrome](https://github.com/iamkasha/java-dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/iamkasha/java-dsa-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/iamkasha/java-dsa-practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0567-permutation-in-string) |
@@ -154,6 +155,7 @@ java -cp out trees.LevelOrderTraversal
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/iamkasha/java-dsa-practice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/iamkasha/java-dsa-practice/tree/master/0904-fruit-into-baskets) |
@@ -167,6 +169,7 @@ java -cp out trees.LevelOrderTraversal
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamkasha/java-dsa-practice/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/iamkasha/java-dsa-practice/tree/master/0383-ransom-note) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/iamkasha/java-dsa-practice/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Binary Search
 |  |
