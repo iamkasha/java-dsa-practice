@@ -98,6 +98,7 @@ java -cp out trees.LevelOrderTraversal
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/iamkasha/java-dsa-practice/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/iamkasha/java-dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/iamkasha/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/iamkasha/java-dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +116,7 @@ java -cp out trees.LevelOrderTraversal
 | [0217-contains-duplicate](https://github.com/iamkasha/java-dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/iamkasha/java-dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/iamkasha/java-dsa-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
@@ -159,6 +161,7 @@ java -cp out trees.LevelOrderTraversal
 | [0219-contains-duplicate-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/iamkasha/java-dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/iamkasha/java-dsa-practice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/iamkasha/java-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/iamkasha/java-dsa-practice/tree/master/0567-permutation-in-string) |
@@ -173,6 +176,7 @@ java -cp out trees.LevelOrderTraversal
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamkasha/java-dsa-practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/iamkasha/java-dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/iamkasha/java-dsa-practice/tree/master/0383-ransom-note) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/iamkasha/java-dsa-practice/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Binary Search
@@ -188,9 +192,22 @@ java -cp out trees.LevelOrderTraversal
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamkasha/java-dsa-practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/iamkasha/java-dsa-practice/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/iamkasha/java-dsa-practice/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/iamkasha/java-dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/iamkasha/java-dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/iamkasha/java-dsa-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
