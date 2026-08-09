@@ -85,6 +85,7 @@ java -cp out trees.LevelOrderTraversal
 | [0015-3sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/iamkasha/java-dsa-practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/iamkasha/java-dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/iamkasha/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/iamkasha/java-dsa-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamkasha/java-dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -157,6 +158,7 @@ java -cp out trees.LevelOrderTraversal
 | ------- |
 | [0001-two-sum](https://github.com/iamkasha/java-dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamkasha/java-dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/iamkasha/java-dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/iamkasha/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/iamkasha/java-dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/iamkasha/java-dsa-practice/tree/master/0169-majority-element) |
@@ -218,4 +220,8 @@ java -cp out trees.LevelOrderTraversal
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/iamkasha/java-dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/iamkasha/java-dsa-practice/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
