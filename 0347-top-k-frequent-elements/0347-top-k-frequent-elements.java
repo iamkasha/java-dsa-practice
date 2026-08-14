@@ -7,17 +7,19 @@ class Solution {
             map.put(n, map.getOrDefault(n, 0)+1);
         }
         
-        PriorityQueue<Map.Entry<Integer, Integer>> entryQueue = new PriorityQueue<>((a, b) -> b.getValue() - a.getValue());
+        PriorityQueue<Map.Entry<Integer, Integer>> pq = new PriorityQueue<>((a, b) -> a.getValue() - b.getValue()); // min-heap
 
-        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
-            entryQueue.add(entry);
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            pq.add(entry);
+            if (pq.size() > k) {
+                pq.poll(); // remove smallest, keeping only top k
+            }
         }
-        System.out.println(entryQueue);
 
         int[] res = new int[k];
 
         for(int i=0; i<k; i++){
-            Map.Entry<Integer, Integer> entry = entryQueue.poll();
+            Map.Entry<Integer, Integer> entry = pq.poll();
             res[i] = entry.getKey();
         }
         return res;
