@@ -67,6 +67,7 @@ java -cp out trees.LevelOrderTraversal
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamkasha/java-dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/iamkasha/java-dsa-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/iamkasha/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/iamkasha/java-dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iamkasha/java-dsa-practice/tree/master/0242-valid-anagram) |
@@ -131,6 +132,7 @@ java -cp out trees.LevelOrderTraversal
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/iamkasha/java-dsa-practice/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/iamkasha/java-dsa-practice/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -224,4 +226,8 @@ java -cp out trees.LevelOrderTraversal
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/iamkasha/java-dsa-practice/tree/master/0036-valid-sudoku) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/iamkasha/java-dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
