@@ -104,6 +104,7 @@ java -cp out trees.LevelOrderTraversal
 | [0283-move-zeroes](https://github.com/iamkasha/java-dsa-practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/iamkasha/java-dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/iamkasha/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/iamkasha/java-dsa-practice/tree/master/0682-baseball-game) |
 | [0904-fruit-into-baskets](https://github.com/iamkasha/java-dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamkasha/java-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1652-defuse-the-bomb](https://github.com/iamkasha/java-dsa-practice/tree/master/1652-defuse-the-bomb) |
@@ -133,10 +134,12 @@ java -cp out trees.LevelOrderTraversal
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamkasha/java-dsa-practice/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/iamkasha/java-dsa-practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/iamkasha/java-dsa-practice/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/iamkasha/java-dsa-practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/iamkasha/java-dsa-practice/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
